@@ -3,8 +3,8 @@
 El objetivo de este proyecto consiste en una aplicación que pueda encriptar y desencriptar mensajes.
 
 * Botones funcionales
-  * <b>Cifrar</b>: Cifra el texto ingresado en el campo de entrada. Después del cifrado, el texto se transfiere al campo de salida.
-  * <b>Descifrar</b>: Descifra el texto ingresado en el campo de entrada. Después del descifrado, el texto se transfiere al campo de salida.
+  * <b>Encriptar</b>: Cifra el texto ingresado en el campo de entrada. Después del cifrado, el texto se transfiere al campo de salida.
+  * <b>Desencriptar</b>: Descifra el texto ingresado en el campo de entrada. Después del descifrado, el texto se transfiere al campo de salida.
   * <b>Copiar</b>: Copia el contenido del campo de salida al portapapeles.
 
 ## Herramientas utilizadas
