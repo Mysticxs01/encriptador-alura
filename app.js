@@ -55,7 +55,7 @@ function copy() {
 }
 
 function resetContent() {
-    textOutput.innerHTML = '<img src="./assets/kuromi.png" alt="">' +
+    textOutput.innerHTML = '<img src="./assets/kuromi.png" alt="kuromi image">' +
                            '<h1>No se encontraron mensajes</h1>' +
                            '<h3>Ingresa el mensaje que desees encriptar o desencriptar.</h3>';
 }
